@@ -4,6 +4,9 @@ I am Duc Do, a current undergraduate science student at University of Manitoba. 
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/duc-do-nghiem-27412824a/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/ducdonghiem/) 
 
+## Projects
+
+* [Aurora Scheduler](https://aurorascheduler.online/) for UofM students.
 
 <!-- ![Duc's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ducdonghiem&show_icons=true&theme=tokyonight&hide=contribs,prs,issues) -->
 
