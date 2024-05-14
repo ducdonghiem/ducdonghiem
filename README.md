@@ -7,6 +7,7 @@ I am Duc Do, a current undergraduate science student at University of Manitoba. 
 ## Projects
 
 * [Aurora Scheduler](https://aurorascheduler.online/) for UofM students.
+* 
 
 <!-- ![Duc's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ducdonghiem&show_icons=true&theme=tokyonight&hide=contribs,prs,issues) -->
 
