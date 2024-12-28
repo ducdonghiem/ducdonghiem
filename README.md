@@ -13,9 +13,17 @@ I am Duc Do, a current undergraduate data science student at University of Manit
 
 <!-- ![Duc's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ducdonghiem&show_icons=true&theme=tokyonight&hide=contribs,prs,issues) -->
 
+<a href="https://github.com/ducdonghiem/AuroraProject_Showcase">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ducdonghiem&repo=AuroraProject_Showcase&theme=radical" />
+</a>  
+<a href="https://github.com/ducdonghiem/Mathematics_DataScience">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ducdonghiem&repo=Mathematics_DataScience&theme=midnight-purple" />
+</a>  
 <a href="https://github.com/ducdonghiem/MusicRecommendation">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ducdonghiem&repo=MusicRecommendation&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ducdonghiem&repo=MusicRecommendation&theme=highcontrast" />
 </a>    
 <a href="https://github.com/ducdonghiem/fund_opt">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
@@ -24,7 +32,7 @@ I am Duc Do, a current undergraduate data science student at University of Manit
 
 <a href="https://github.com/ducdonghiem/OOP.20222.06">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ducdonghiem&repo=OOP.20222.06&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ducdonghiem&repo=OOP.20222.06&theme=chartreuse-dark" />
 </a>    
 <a href="https://github.com/ducdonghiem/AI_Project_Sudoku">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
@@ -33,9 +41,9 @@ I am Duc Do, a current undergraduate data science student at University of Manit
 
 <a href="https://github.com/ducdonghiem/StockPrediction">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ducdonghiem&repo=StockPrediction&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ducdonghiem&repo=StockPrediction&theme=chartreuse-dark" />
 </a>    
 <a href="https://github.com/ducdonghiem/AppliedStatistics_HUST">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ducdonghiem&repo=AppliedStatistics_HUST&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ducdonghiem&repo=AppliedStatistics_HUST&theme=great-gatsby" />
 </a>
