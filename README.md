@@ -17,7 +17,7 @@ I am Duc Do, a current undergraduate data science student at University of Manit
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ducdonghiem&repo=AuroraProject_Showcase&theme=midnight-purple" />
 </a>  
-<a href="https://github.com/ducdonghiem/Mathmatics_DataScience">
+<a href="https://github.com/ducdonghiem/Mathematics_DataScience">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ducdonghiem&repo=Mathematics_DataScience&theme=radical" />
 </a>  
