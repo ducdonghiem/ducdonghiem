@@ -13,14 +13,13 @@ I am Duc Do, a current undergraduate data science student at University of Manit
 
 <!-- ![Duc's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ducdonghiem&show_icons=true&theme=tokyonight&hide=contribs,prs,issues) -->
 
-
 <a href="https://github.com/ducdonghiem/AuroraProject_Showcase">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ducdonghiem&repo=AuroraProject_Showcase&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ducdonghiem&repo=AuroraProject_Showcase&theme=midnight-purple" />
 </a>  
-<a href="https://github.com/ducdonghiem/Mathematics_DataScience">
+<a href="https://github.com/ducdonghiem/Mathmatics_DataScience">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ducdonghiem&repo=Mathematics_DataScience&theme=midnight-purple" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ducdonghiem&repo=Mathematics_DataScience&theme=radical" />
 </a>  
 <a href="https://github.com/ducdonghiem/MusicRecommendation">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
