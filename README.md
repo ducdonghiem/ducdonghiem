@@ -1,5 +1,5 @@
 ### WELCOME TO MY GITHUB 👋
-I am Duc Do, a current undergraduate data science student at University of Manitoba. Before transitioning my academic career to Canada, I was an undergraduate science student majoring in Data Science and Artificial Intelligence at Hanoi University of Science and Technology, Vietnam.<br>
+I am Duc Do, a current undergraduate data science student at University of Manitoba and an assistant researcher at the [Database and Data Mining lab](https://sites.google.com/site/dblabuofm/). Before transitioning my academic career to Canada, I was an undergraduate science student majoring in Data Science and Artificial Intelligence at Hanoi University of Science and Technology, Vietnam.<br>
 
 **More about me**: https://ducdonghiem.github.io/
 
