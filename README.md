@@ -11,7 +11,7 @@ I am Duc Do, a current undergraduate data science student at University of Manit
 
 ## Projects
 
-* [Aurora Scheduler](https://aurorascheduler.online/) for UofM students. Posted on [reddit](https://www.reddit.com/r/umanitoba/comments/1dn3ls9/this_website_helps_you_plan_your_class_schedules/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button).
+* [Aurora Scheduler](https://aurorascheduler.ca/) for UofM students. Posted on [reddit](https://www.reddit.com/r/umanitoba/comments/1dn3ls9/this_website_helps_you_plan_your_class_schedules/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button).
 ---------------------------------------------------------------------
 
 <!-- ![Duc's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ducdonghiem&show_icons=true&theme=tokyonight&hide=contribs,prs,issues) -->
